@@ -1,0 +1,9 @@
+{
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "main",
+        "main"
+    ],
+    "cmake.options.statusBarVisibility": "visible",
+    "dbt.dbtIntegration": "cloud",
+    "gitlens.statusBar.format": "${author}, ${agoOrDate}${' via  'pullRequest}"
+}
